@@ -8,4 +8,11 @@
 	</section>
 	<section name="NewWizardAction">
 	</section>
+<<<<<<< Updated upstream
+=======
+	<section name="FileSystemExportWizard">
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+>>>>>>> Stashed changes
 </section>

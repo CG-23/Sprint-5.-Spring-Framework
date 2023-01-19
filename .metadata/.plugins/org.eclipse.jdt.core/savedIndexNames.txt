@@ -1,4 +1,5 @@
 INDEX VERSION 1.131+C:\Users\karlo\Desktop\NIVEL5\.metadata\.plugins\org.eclipse.jdt.core
+<<<<<<< Updated upstream
 392910621.index
 2164069327.index
 300020036.index
@@ -98,3 +99,7 @@ INDEX VERSION 1.131+C:\Users\karlo\Desktop\NIVEL5\.metadata\.plugins\org.eclipse
 446669484.index
 1086376188.index
 1492764768.index
+=======
+1932329539.index
+1865797976.index
+>>>>>>> Stashed changes

@@ -2,6 +2,15 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+<<<<<<< Updated upstream
+=======
+			<item value="C:\Users\karlo\Desktop\clonar\SPRING\Tarea 2 - Fase 2"/>
+			<item value="C:\Users\karlo\Desktop\clonar\SPRING\Tarea 2 - Fase 2\S05T02N01GimenoCarlos2"/>
+			<item value="C:\Users\karlo\Desktop\NIVEL5\S05T02N01GimenoCarlos2"/>
+			<item value="C:\Users\karlo\Desktop\S05T02N01GimenoCarlosf1"/>
+			<item value="C:\Users\karlo\Desktop\NIVEL5\S05T02N01GimenoCarlos"/>
+			<item value="C:\Users\karlo\Desktop\clonar\SPRING\Tarea 2 - Fase 1\S05T02N01GimenoCarlos"/>
+>>>>>>> Stashed changes
 			<item value="C:\Users\karlo\Desktop\NIVEL5\S05T01N01GimenoCarlos"/>
 		</list>
 		<list key="projectNameTemplate">
