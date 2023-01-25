@@ -12,6 +12,18 @@ services:
       - MYSQL_DATABASE=level1
       - MYSQL_USER=level1
       - MYSQL_PASSWORD=level1
+
+  flor-db:
+    image: mysql
+    networks:
+      - spring-web
+    ports:
+      - "3001:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=level1
+      - MYSQL_DATABASE=level1
+      - MYSQL_USER=level1
+      - MYSQL_PASSWORD=level1
   
   dados-db:
     image: mysql
